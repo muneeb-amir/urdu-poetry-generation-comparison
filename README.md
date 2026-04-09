@@ -91,3 +91,10 @@ python src/generate.py
 - Hyperparameter tuning
 - Text generation with temperature control
 - Quantitative + qualitative evaluation
+
+## Results 
+
+<img width="736" height="582" alt="image" src="https://github.com/user-attachments/assets/221fc903-1ab9-4e94-801a-af44e6632ec2" />
+
+<img width="635" height="373" alt="image" src="https://github.com/user-attachments/assets/ea7f3c95-7dcf-41d4-84bc-dd10d5e3672e" />
+
